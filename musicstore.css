@@ -1,0 +1,28 @@
+.heading1{
+    text-align: center;
+    color: firebrick;
+    font-size: 75px;
+}
+.demon{
+    margin-top: 10px;
+   
+}
+.heading2{
+    color: #0f0101;
+    text-align: center;
+    
+}
+.heading3{
+    color: #ac3b1f;
+    text-align: center;
+    
+}
+.card {display:inline-block;
+  margin-top: 20px;
+  margin-right: 80px;
+  margin-left: 50px;  
+}
+.divcontact{
+    margin-top: 20px;
+    background-color: rgba(43, 255, 0, 0.959);
+}
